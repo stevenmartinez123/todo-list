@@ -1,3 +1,5 @@
 import './style.css';
+import './reset.css';
 
-console.log('test');
+//set title of webpage 
+document.title = 'Todo List';
